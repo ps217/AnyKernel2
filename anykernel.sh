@@ -4,17 +4,17 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=ExampleKernel by osm0sis @ xda-developers
+kernel.string=NEXUS
 do.devicecheck=1
 do.modules=0
 do.cleanup=1
 do.cleanuponabort=0
-device.name1=maguro
-device.name2=toro
-device.name3=toroplus
+device.name1=santoni
+device.name2=
+device.name3=
 device.name4=
 device.name5=
-supported.versions=
+supported.versions=9.0.0
 '; } # end properties
 
 # shell variables
